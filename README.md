@@ -29,5 +29,5 @@
 
 Check More Info:
 
-* [Partner CV](<a href="https://marouananouar.github.io/Personal_App/" target="_blank> </a> "Marouan Anouar Portfolio") Best Partner.
+* [Partner CV](https://marouananouar.github.io/Personal_App/ "Marouan Anouar Portfolio") Best Partner.
 
