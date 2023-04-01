@@ -9,48 +9,25 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhnA9N00JdPTqyxC8_4EqoepO4b9sg0SaO6tUJxXXjIU3oDgYXIvxphwR9JDYPZP18TMn6G6uUoXUzKvANHxqUtBloHEVJSrTjoHu06bsIVk9c0zlkaex2j6gAUggnruQbfhBVSvkKc7ruHk2TrswE2ezV_mawDdyfZ6foNh5NuxQuHq9YbB9p92-EQ/s1080/White%20Brick%20Wall%20Mockup%20Frame%20Quote%20Instagram%20Post.png" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <h2 align="center">Black Horse Team 🐎 - Digital Agency</h2>
 
-  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  A digital agency is a company that offers services related to digital marketing, such as website design and development, social media management, search engine optimization, content creation, and online advertising, <br />They help businesses establish a strong online presence and achieve their marketing goals through various digital channels.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://blackhorseteams.github.io/Home/" target="_black"><strong>➥ Live WebSite</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### WebSite Screeshot
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jms80pnqmk91TK1vPjLuc0996tWOzQFrNRaPafJVyvcD_azMm0mXaPmQdXSyhIvHqJV3NawgLpo1CQzzLY8sYAJlIlR-LslxMFmz-pGLaMKSN6U6bNPNtTEomTpLA3f7xzfRhwVQ5DHS_KAzZxPFOY5w20MdTiDRlHE7CdGQfay_awlza2LqNondZA/s1345/101.PNG" />
 
-### Prerequisites
+### Partner 
 
-Before you begin, ensure you have met the following requirements:
+Check More Info:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Partner CV](https://marouananouar.github.io/Personal_App/ "Marouan Anouar Portfolio") Best Partner.
 
-### Run Locally
-
-To run **jack-portfolio** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
