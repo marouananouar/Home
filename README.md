@@ -15,7 +15,7 @@
 
   A digital agency is a company that offers services related to digital marketing, such as website design and development, social media management, search engine optimization, content creation, and online advertising, <br />They help businesses establish a strong online presence and achieve their marketing goals through various digital channels.
 
-  <a href="https://blackhorseteams.github.io/Home/" target="_black"><strong>➥ Live WebSite</strong></a>
+  <a href="https://blackhorseteams.github.io/Home/" target="_blank"><strong>➥ Live WebSite</strong></a>
 
 </div>
 
@@ -29,5 +29,5 @@
 
 Check More Info:
 
-* [Partner CV](https://marouananouar.github.io/Personal_App/ "Marouan Anouar Portfolio") Best Partner.
+* [Partner CV](<a href="https://marouananouar.github.io/Personal_App/" target="_blank> </a> "Marouan Anouar Portfolio") Best Partner.
 
